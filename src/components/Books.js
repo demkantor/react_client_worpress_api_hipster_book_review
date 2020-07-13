@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import axios from 'axios';
 
 import BookItem from './BookItem';
+import './Book.css';
 
 class Books extends Component {
 

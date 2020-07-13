@@ -1,0 +1,20 @@
+.book-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.title {
+    margin: 0
+}
+
+.book-img {
+    margin: auto;
+    width: 10em;
+    object-fit: contain;
+}
+
+hr {
+    width: 80vw;
+}
